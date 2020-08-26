@@ -1,2 +1,2 @@
 # AISC-Lab
-![](./media/img1.jpg)
+![](./media/img1.png)
